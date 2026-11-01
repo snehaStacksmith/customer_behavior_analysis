@@ -20,7 +20,7 @@ Analyzed retail customer data to understand how demographics, shipping preferenc
 3. **Dashboard Development:** Built an interactive Tableau dashboard with KPI summaries, calculated fields, and dynamic filters.
 
 ## 📈 Key Findings
-* **Shipping Preferences:** Express-shipping customers showed higher average purchase amounts, highlighting a relationship worth investigating further.
+* **Shipping Preferences:** 2-Day Shipping customers showed higher average purchase amounts, highlighting a relationship worth investigating further.
 * **Subscription Adoption:** Some frequent buyers remained unsubscribed, presenting an opportunity to investigate subscription conversion.
 * **Demographics:** Younger customer segments contributed a larger share of purchasing activity and revenue.
 * **Discount Usage:** Outerwear and Hats showed substantial discount usage, warranting further investigation into pricing and promotional strategies.
