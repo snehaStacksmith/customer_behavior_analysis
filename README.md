@@ -28,7 +28,7 @@ Analyzed retail customer data to understand how demographics, shipping preferenc
 ## 📊 Dashboard Preview
 ![Customer Behavior Dashboard](dashboard/dashboard.png)
 
-🔗 **[Explore the Interactive Dashboard](ADD_TABLEAU_PUBLIC_URL)**
+🔗 **[Explore the Interactive Dashboard](https://public.tableau.com/app/profile/sneha.shrivastava5964/viz/customer_behavior_dashboard_17919600257540/Dashboard1)**
 
 ## 📁 Repository Structure
 ```text
